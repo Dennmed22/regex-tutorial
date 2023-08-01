@@ -11,9 +11,6 @@ During this regex tutorial, we will learn how to match an email address with a r
 *Grouping and Capturing
 *Bracket Expressions
 *Greedy and Lazy Match
-*Boundaries
-*Back-references
-*Look-ahead and Look-behind
 *Questions
 ## Regex Components
 ## Anchors
